@@ -1,5 +1,5 @@
 
-
+VIỆT HÓA TRANG NÀY, EDIT LẠI NỘI DUNG, CUNG CẤP CODE LÊN ĐÂY ĐỂ SV THAM KHẢO, HỌC TẬP.
 
 # Learning DevOps Second Edition
 
